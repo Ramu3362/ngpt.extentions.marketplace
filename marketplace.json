@@ -1,0 +1,16 @@
+{
+  "extensions": [
+    {
+      "id": "text.to.game.nanogpt",
+      "name": "Text to Game Generator",
+      "version": "1.0.0",
+      "type": "runner",
+      "author": "Arv Studios",
+      "size": "320KB",
+      "description": "Generate playable HTML games and run instantly with one click.",
+      "icon": "https://ramu3362.github.io/ngpt.extentions.marketplace/icons/text-to-game.png",
+      "download_url": "https://ramu3362.github.io/ngpt.extentions.marketplace/text-to-game.ngpt",
+      "min_app_version": "1.0.0"
+    }
+  ]
+}
